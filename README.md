@@ -21,6 +21,11 @@ It includes two distinct agent skills:
 
 👉 **[Click here to read the full Knowledge Base documentation](./knowledge_base/README.md)** for installation instructions and usage examples.
 
+## 📖 The `quran` Framework
+The [`quran/`](./quran/) directory applies the exact same Zettelkasten mechanics to Quran study: a Writer skill (`quran-zettelkasten`) documents ruku passages into an interconnected Triad (`03-mushaf/`, `02-knowledge/`, `01-fleeting/`) anchored to a local `[surah:ayah]`-keyed corpus extracted from the user's English PDF, and a Reader skill (`quran-query`) retrieves themes and cross-references via ripgrep. UID discipline, anti-skeleton examples, the Tombstone pattern, link validation, and a resumable full-Quran build pipeline (`BUILD_STATE.json`) all carry over.
+
+👉 **[Full documentation](./quran/README.md)**
+
 ---
 
 ## 🛠️ Repository Structure
@@ -31,5 +36,9 @@ It includes two distinct agent skills:
 │   ├── README.md                 # Detailed instructions for the framework
 │   ├── dbt_zettelkasten/         # The Writer AI Skill
 │   └── query-second-brain/       # The Reader AI Skill
+├── quran/                        # The Quran Zettelkasten framework
+│   ├── README.md                 # Detailed instructions for the framework
+│   ├── quran_zettelkasten/       # The Writer AI Skill (+ extract_pdf.py, ruku map)
+│   └── quran_query/              # The Reader AI Skill
 └── README.md                     # You are here
 ```

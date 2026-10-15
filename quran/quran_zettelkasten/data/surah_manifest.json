@@ -1,0 +1,686 @@
+[
+ {
+  "number": 1,
+  "ayahs": 7,
+  "name_en": "THE OPENING",
+  "translit": "al-Fatihah"
+ },
+ {
+  "number": 2,
+  "ayahs": 286,
+  "name_en": "THE HEIFER",
+  "translit": "al-Baqarah"
+ },
+ {
+  "number": 3,
+  "ayahs": 200,
+  "name_en": "FAMILY OF IMRAN",
+  "translit": "Ali \u2018Imran"
+ },
+ {
+  "number": 4,
+  "ayahs": 176,
+  "name_en": "WOMEN",
+  "translit": "an-Nisa\u2019"
+ },
+ {
+  "number": 5,
+  "ayahs": 120,
+  "name_en": "THE TABLE",
+  "translit": "al-Ma\u2019idah"
+ },
+ {
+  "number": 6,
+  "ayahs": 165,
+  "name_en": "LIVESTOCK",
+  "translit": "al-An\u2019am"
+ },
+ {
+  "number": 7,
+  "ayahs": 206,
+  "name_en": "THE ELEVATIONS",
+  "translit": "al-A\u2019raf"
+ },
+ {
+  "number": 8,
+  "ayahs": 75,
+  "name_en": "THE SPOILS",
+  "translit": "al-Anfal"
+ },
+ {
+  "number": 9,
+  "ayahs": 129,
+  "name_en": "REPENTANCE",
+  "translit": "at-Tawbah"
+ },
+ {
+  "number": 10,
+  "ayahs": 109,
+  "name_en": "JONAH",
+  "translit": "Yunus"
+ },
+ {
+  "number": 11,
+  "ayahs": 123,
+  "name_en": "HUD",
+  "translit": "Hud"
+ },
+ {
+  "number": 12,
+  "ayahs": 111,
+  "name_en": "JOSEPH",
+  "translit": "Yusuf"
+ },
+ {
+  "number": 13,
+  "ayahs": 43,
+  "name_en": "THUNDER",
+  "translit": "ar-Ra\u2019d"
+ },
+ {
+  "number": 14,
+  "ayahs": 52,
+  "name_en": "ABRAHAM",
+  "translit": "Ibrahim"
+ },
+ {
+  "number": 15,
+  "ayahs": 99,
+  "name_en": "THE ROCK",
+  "translit": "al-Hijr"
+ },
+ {
+  "number": 16,
+  "ayahs": 128,
+  "name_en": "THE BEE",
+  "translit": "an-Nahl"
+ },
+ {
+  "number": 17,
+  "ayahs": 111,
+  "name_en": "THE NIGHT JOURNEY",
+  "translit": "al-Isra\u2019"
+ },
+ {
+  "number": 18,
+  "ayahs": 110,
+  "name_en": "THE CAVE",
+  "translit": "al-Kahf"
+ },
+ {
+  "number": 19,
+  "ayahs": 98,
+  "name_en": "MARY",
+  "translit": "Maryam"
+ },
+ {
+  "number": 20,
+  "ayahs": 135,
+  "name_en": "TA-HA",
+  "translit": "Ta-Ha"
+ },
+ {
+  "number": 21,
+  "ayahs": 112,
+  "name_en": "THE PROPHETS",
+  "translit": "al-Anbiya"
+ },
+ {
+  "number": 22,
+  "ayahs": 78,
+  "name_en": "THE PILGRIMAGE",
+  "translit": "al-Hajj"
+ },
+ {
+  "number": 23,
+  "ayahs": 118,
+  "name_en": "THE BELIEVERS",
+  "translit": "al-Mu\u2019minun"
+ },
+ {
+  "number": 24,
+  "ayahs": 64,
+  "name_en": "THE LIGHT",
+  "translit": "an-Nur"
+ },
+ {
+  "number": 25,
+  "ayahs": 77,
+  "name_en": "THE CRITERION",
+  "translit": "al-Furqan"
+ },
+ {
+  "number": 26,
+  "ayahs": 227,
+  "name_en": "THE POETS",
+  "translit": "ash-Shu\u2019ara\u2019"
+ },
+ {
+  "number": 27,
+  "ayahs": 93,
+  "name_en": "THE ANT",
+  "translit": "an-Naml"
+ },
+ {
+  "number": 28,
+  "ayahs": 88,
+  "name_en": "HISTORY",
+  "translit": "al-Qasas"
+ },
+ {
+  "number": 29,
+  "ayahs": 69,
+  "name_en": "THE SPIDER",
+  "translit": "al-\u2019Ankabut"
+ },
+ {
+  "number": 30,
+  "ayahs": 60,
+  "name_en": "THE ROMANS",
+  "translit": "ar-Rum"
+ },
+ {
+  "number": 31,
+  "ayahs": 34,
+  "name_en": "LUQMAN",
+  "translit": "Luqman"
+ },
+ {
+  "number": 32,
+  "ayahs": 30,
+  "name_en": "PROSTRATION",
+  "translit": "as-Sajdah"
+ },
+ {
+  "number": 33,
+  "ayahs": 73,
+  "name_en": "THE CONFEDERATES",
+  "translit": "al-Ahzab"
+ },
+ {
+  "number": 34,
+  "ayahs": 54,
+  "name_en": "SHEBA",
+  "translit": "Saba\u2019"
+ },
+ {
+  "number": 35,
+  "ayahs": 45,
+  "name_en": "ORIGINATOR",
+  "translit": "Fatir"
+ },
+ {
+  "number": 36,
+  "ayahs": 83,
+  "name_en": "YA-SEEN",
+  "translit": "Ya-Seen"
+ },
+ {
+  "number": 37,
+  "ayahs": 182,
+  "name_en": "THE ALIGNERS",
+  "translit": "as-Saffat"
+ },
+ {
+  "number": 38,
+  "ayahs": 88,
+  "name_en": "SAAD",
+  "translit": "Saad"
+ },
+ {
+  "number": 39,
+  "ayahs": 75,
+  "name_en": "THRONGS",
+  "translit": "az-Zumar"
+ },
+ {
+  "number": 40,
+  "ayahs": 85,
+  "name_en": "FORGIVER",
+  "translit": "Ghafir"
+ },
+ {
+  "number": 41,
+  "ayahs": 54,
+  "name_en": "DETAILED",
+  "translit": "Fussilat"
+ },
+ {
+  "number": 42,
+  "ayahs": 53,
+  "name_en": "CONSULTATION",
+  "translit": "ash-Shura"
+ },
+ {
+  "number": 43,
+  "ayahs": 89,
+  "name_en": "DECORATIONS",
+  "translit": "az-Zukhruf"
+ },
+ {
+  "number": 44,
+  "ayahs": 59,
+  "name_en": "SMOKE",
+  "translit": "ad-Dukhan"
+ },
+ {
+  "number": 45,
+  "ayahs": 37,
+  "name_en": "KNEELING",
+  "translit": "al-Jathiyah"
+ },
+ {
+  "number": 46,
+  "ayahs": 35,
+  "name_en": "THE DUNES",
+  "translit": "al-Ahqaf"
+ },
+ {
+  "number": 47,
+  "ayahs": 38,
+  "name_en": "MUHAMMAD",
+  "translit": "Muhammad"
+ },
+ {
+  "number": 48,
+  "ayahs": 29,
+  "name_en": "VICTORY",
+  "translit": "al-Fath"
+ },
+ {
+  "number": 49,
+  "ayahs": 18,
+  "name_en": "THE CHAMBERS",
+  "translit": "al-Hujurat"
+ },
+ {
+  "number": 50,
+  "ayahs": 45,
+  "name_en": "QAF",
+  "translit": "Qaf"
+ },
+ {
+  "number": 51,
+  "ayahs": 60,
+  "name_en": "THE SPREADERS",
+  "translit": "adh-Dhariyat"
+ },
+ {
+  "number": 52,
+  "ayahs": 49,
+  "name_en": "THE MOUNT",
+  "translit": "at-Tur"
+ },
+ {
+  "number": 53,
+  "ayahs": 62,
+  "name_en": "THE STAR",
+  "translit": "an-Najm"
+ },
+ {
+  "number": 54,
+  "ayahs": 55,
+  "name_en": "THE MOON",
+  "translit": "al-Qamar"
+ },
+ {
+  "number": 55,
+  "ayahs": 78,
+  "name_en": "THE COMPASSIONATE",
+  "translit": "ar-Rahman"
+ },
+ {
+  "number": 56,
+  "ayahs": 96,
+  "name_en": "THE INEVITABLE",
+  "translit": "al-Waqi\u2019ah"
+ },
+ {
+  "number": 57,
+  "ayahs": 29,
+  "name_en": "IRON",
+  "translit": "al-Hadid`"
+ },
+ {
+  "number": 58,
+  "ayahs": 22,
+  "name_en": "THE ARGUMENT",
+  "translit": "al-Mujadilah"
+ },
+ {
+  "number": 59,
+  "ayahs": 24,
+  "name_en": "THE MOBILIZATION",
+  "translit": "al-Hashr"
+ },
+ {
+  "number": 60,
+  "ayahs": 13,
+  "name_en": "THE WOMAN TESTED",
+  "translit": "al-Mumtahina"
+ },
+ {
+  "number": 61,
+  "ayahs": 14,
+  "name_en": "COLUMN",
+  "translit": "as-Saff"
+ },
+ {
+  "number": 62,
+  "ayahs": 11,
+  "name_en": "FRIDAY",
+  "translit": "al-Jumu\u2019ah"
+ },
+ {
+  "number": 63,
+  "ayahs": 11,
+  "name_en": "THE HYPOCRITES",
+  "translit": "al-Munafiqun"
+ },
+ {
+  "number": 64,
+  "ayahs": 18,
+  "name_en": "GATHERING",
+  "translit": "at-Taghabun"
+ },
+ {
+  "number": 65,
+  "ayahs": 12,
+  "name_en": "DIVORCE",
+  "translit": "at-Talaq"
+ },
+ {
+  "number": 66,
+  "ayahs": 12,
+  "name_en": "PROHIBITION",
+  "translit": "at-Tahrim"
+ },
+ {
+  "number": 67,
+  "ayahs": 30,
+  "name_en": "SOVEREIGNTY",
+  "translit": "al-Mulk"
+ },
+ {
+  "number": 68,
+  "ayahs": 52,
+  "name_en": "THE PEN",
+  "translit": "al-Qalam"
+ },
+ {
+  "number": 69,
+  "ayahs": 52,
+  "name_en": "THE REALITY",
+  "translit": "al-Haqqah"
+ },
+ {
+  "number": 70,
+  "ayahs": 44,
+  "name_en": "WAYS OF ASCENT",
+  "translit": "al-Ma\u2019arij"
+ },
+ {
+  "number": 71,
+  "ayahs": 28,
+  "name_en": "NOAH",
+  "translit": "Nuh"
+ },
+ {
+  "number": 72,
+  "ayahs": 28,
+  "name_en": "THE JINN",
+  "translit": "al-Jinn"
+ },
+ {
+  "number": 73,
+  "ayahs": 20,
+  "name_en": "THE ENWRAPPED",
+  "translit": "al-Muzzammil"
+ },
+ {
+  "number": 74,
+  "ayahs": 56,
+  "name_en": "THE ENROBED",
+  "translit": "al-Muddathir"
+ },
+ {
+  "number": 75,
+  "ayahs": 40,
+  "name_en": "RESURRECTION",
+  "translit": "al-Qiyamah"
+ },
+ {
+  "number": 76,
+  "ayahs": 31,
+  "name_en": "MAN",
+  "translit": "al-Insan"
+ },
+ {
+  "number": 77,
+  "ayahs": 50,
+  "name_en": "THE UNLEASHED",
+  "translit": "al-Mursalat"
+ },
+ {
+  "number": 78,
+  "ayahs": 40,
+  "name_en": "THE EVENT",
+  "translit": "an-Naba\u2019"
+ },
+ {
+  "number": 79,
+  "ayahs": 46,
+  "name_en": "THE SNATCHERS",
+  "translit": "an-Nazi\u2019at"
+ },
+ {
+  "number": 80,
+  "ayahs": 42,
+  "name_en": "HE FROWNED",
+  "translit": "\u2018Abasa"
+ },
+ {
+  "number": 81,
+  "ayahs": 29,
+  "name_en": "THE ROLLING",
+  "translit": "at-Takwir"
+ },
+ {
+  "number": 82,
+  "ayahs": 19,
+  "name_en": "THE SHATTERING",
+  "translit": "al-Infitar"
+ },
+ {
+  "number": 83,
+  "ayahs": 36,
+  "name_en": "THE DEFRAUDERS",
+  "translit": "al-Mutaffifin"
+ },
+ {
+  "number": 84,
+  "ayahs": 25,
+  "name_en": "THE RUPTURE",
+  "translit": "al-Inshiqaq"
+ },
+ {
+  "number": 85,
+  "ayahs": 22,
+  "name_en": "THE CONSTELLATIONS",
+  "translit": "al-Buruj"
+ },
+ {
+  "number": 86,
+  "ayahs": 17,
+  "name_en": "THE NIGHTLY VISITOR",
+  "translit": "at-Tariq"
+ },
+ {
+  "number": 87,
+  "ayahs": 19,
+  "name_en": "THE MOST HIGH",
+  "translit": "al-A\u2019la"
+ },
+ {
+  "number": 88,
+  "ayahs": 26,
+  "name_en": "THE OVERWHELMING",
+  "translit": "al-Ghashiyah"
+ },
+ {
+  "number": 89,
+  "ayahs": 30,
+  "name_en": "THE DAWN",
+  "translit": "al-Fajr"
+ },
+ {
+  "number": 90,
+  "ayahs": 20,
+  "name_en": "THE LAND",
+  "translit": "al-Balad"
+ },
+ {
+  "number": 91,
+  "ayahs": 15,
+  "name_en": "THE SUN",
+  "translit": "ash-Shams"
+ },
+ {
+  "number": 92,
+  "ayahs": 21,
+  "name_en": "THE NIGHT",
+  "translit": "al-Layl"
+ },
+ {
+  "number": 93,
+  "ayahs": 11,
+  "name_en": "MORNING LIGHT",
+  "translit": "adh-Duha"
+ },
+ {
+  "number": 94,
+  "ayahs": 8,
+  "name_en": "THE SOOTHING",
+  "translit": "ash-Sharh"
+ },
+ {
+  "number": 95,
+  "ayahs": 8,
+  "name_en": "THE FIG",
+  "translit": "at-Tin"
+ },
+ {
+  "number": 96,
+  "ayahs": 19,
+  "name_en": "CLOT",
+  "translit": "al-\u2019Alaq"
+ },
+ {
+  "number": 97,
+  "ayahs": 5,
+  "name_en": "DECREE",
+  "translit": "al-Qadr"
+ },
+ {
+  "number": 98,
+  "ayahs": 8,
+  "name_en": "CLEAR EVIDENCE",
+  "translit": "al-Bayyinah"
+ },
+ {
+  "number": 99,
+  "ayahs": 8,
+  "name_en": "THE QUAKE",
+  "translit": "az-Zalzalah"
+ },
+ {
+  "number": 100,
+  "ayahs": 11,
+  "name_en": "THE RACERS",
+  "translit": "al-\u2019Adiyat"
+ },
+ {
+  "number": 101,
+  "ayahs": 11,
+  "name_en": "THE SHOCKER",
+  "translit": "al-Qari\u2019ah"
+ },
+ {
+  "number": 102,
+  "ayahs": 8,
+  "name_en": "ABUNDANCE",
+  "translit": "at-Takathur"
+ },
+ {
+  "number": 103,
+  "ayahs": 3,
+  "name_en": "TIME",
+  "translit": "al-\u2019Asr"
+ },
+ {
+  "number": 104,
+  "ayahs": 9,
+  "name_en": "THE BACKBITER",
+  "translit": "al-Humazah"
+ },
+ {
+  "number": 105,
+  "ayahs": 5,
+  "name_en": "THE ELEPHANT",
+  "translit": "al-Fil"
+ },
+ {
+  "number": 106,
+  "ayahs": 4,
+  "name_en": "QURAISH",
+  "translit": "Quraysh"
+ },
+ {
+  "number": 107,
+  "ayahs": 7,
+  "name_en": "ASSISTANCE",
+  "translit": "al-Ma\u2019un"
+ },
+ {
+  "number": 108,
+  "ayahs": 3,
+  "name_en": "PLENTY",
+  "translit": "al-Kawthar"
+ },
+ {
+  "number": 109,
+  "ayahs": 6,
+  "name_en": "THE DISBELIEVERS",
+  "translit": "al-Kafirun"
+ },
+ {
+  "number": 110,
+  "ayahs": 3,
+  "name_en": "VICTORY",
+  "translit": "an-Nasr"
+ },
+ {
+  "number": 111,
+  "ayahs": 5,
+  "name_en": "THORNS",
+  "translit": "al-Masad"
+ },
+ {
+  "number": 112,
+  "ayahs": 4,
+  "name_en": "MONOTHEISM",
+  "translit": "al-Ikhlas"
+ },
+ {
+  "number": 113,
+  "ayahs": 5,
+  "name_en": "DAYBREAK",
+  "translit": "al-Falaq"
+ },
+ {
+  "number": 114,
+  "ayahs": 6,
+  "name_en": "MANKIND",
+  "translit": "an-Nas"
+ }
+]
